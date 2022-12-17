@@ -1,4 +1,4 @@
-#__Thirdwayv Task__
+# Thirdwayv Task
 
 ## Appliction Description
 
