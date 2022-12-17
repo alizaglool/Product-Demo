@@ -1,7 +1,6 @@
 # Thirdwayv Task
 
 ## Appliction Description
-Project is created with:
 * The app does some of these tasks like request api to Network Layer and response Data and show the Data
 * The app can be Display 3 information (productDescription, price, and an image) and each image is a certain height
 * The app can be Product Details when selelted any item for cell
