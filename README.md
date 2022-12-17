@@ -10,8 +10,8 @@ Project is created with:
 
 ## Base MVC Project for Swift and CoreData
 
-#### using in the task MVC becouse the mvc can split Medal for each other
-#### using in the task CoreData becouse cache mulit image and alot information
+* using in the task MVC becouse the mvc can split Medal for each other
+* using in the task CoreData becouse cache mulit image and alot information
 
 
 ## Steps for use it 
