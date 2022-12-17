@@ -19,5 +19,4 @@
 
 ## License
 This Helper software licensed under the Zaghloul.
-![Simulator Screen Shot - iPhone 13 mini - 2022-12-17 at 06 08 34](https://user-images.githubusercontent.com/50532840/208224168-958d7db6-0825-4bdd-931c-3e70154a96ac.png)
-![Simulator Screen Shot - iPhone 13 mini - 2022-12-17 at 06 08 51](https://user-images.githubusercontent.com/50532840/208224180-fbf6f1bb-f5b5-463b-89b5-62300392d4cd.png)
+
