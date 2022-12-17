@@ -15,7 +15,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="download" translatesAutoresizingMaskIntoConstraints="NO" id="LeV-YV-ZO2">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="thridwayvIcon" translatesAutoresizingMaskIntoConstraints="NO" id="LeV-YV-ZO2">
                                 <rect key="frame" x="87" y="364" width="240" height="168"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="LeV-YV-ZO2" secondAttribute="height" multiplier="10:7" id="FL7-RZ-9Np"/>
@@ -37,6 +37,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="download" width="200" height="200"/>
+        <image name="thridwayvIcon" width="203" height="133"/>
     </resources>
 </document>
