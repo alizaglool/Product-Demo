@@ -20,6 +20,9 @@ class ProductDetailsVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         title = "Product Details"
+        UIView.animate(withDuration: 3.0) {
+            self.productImageDetails.transform = CGAffineTransform(scaleX: 1.5, y: 1.5)
+        }
         setupUI()
     }
     
